@@ -3,6 +3,8 @@ micromagnetics".
 
 Authors : Guru Venkat, Hans Fangohr and Anil Prabhakar
 
+IMPORTANT : It is assumed that you have the Scipy stack installed on your computer. Refer to https://www.scipy.org/install.html for more details.
+
 Run each script for generating the corresponding figure in the paper. The data files are in the folder "data/" and
 so the scripts should run without any hassles. All the data are in the 'OVF' format generated from Mumax3.
 
